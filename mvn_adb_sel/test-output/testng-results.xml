@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T07:53:19Z" name="Default suite" finished-at="2024-01-08T07:56:07Z" duration-ms="168424">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T07:53:19Z" name="Default test" finished-at="2024-01-08T07:56:07Z" duration-ms="168424">
+      <class name="com.orangeHRM_runner.loginscript">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:com.orangeHRM_runner.loginscript@ae3540e]" started-at="2024-01-08T13:23:19Z" name="openapp" finished-at="2024-01-08T13:23:28Z" duration-ms="8721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="login()[pri:0, instance:com.orangeHRM_runner.loginscript@ae3540e]" started-at="2024-01-08T13:23:28Z" name="login" finished-at="2024-01-08T13:26:07Z" duration-ms="159448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:com.orangeHRM_runner.loginscript@ae3540e]" started-at="2024-01-08T13:26:07Z" name="closeapp" finished-at="2024-01-08T13:26:07Z" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- com.orangeHRM_runner.loginscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
